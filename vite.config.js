@@ -10,7 +10,7 @@ export default defineConfig({
   server: {
     port: 3000
   }
-})
+}) 
 // king-andthe-nice/
 // ├── node_modules/
 // ├── src/
